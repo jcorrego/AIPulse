@@ -10,6 +10,18 @@
 ## Use-Case Registry
 Each use case includes owner, objective, success metric, and status.
 
+### Use-Case Types (proposed)
+- **Tool Pilot / Instance Test** (evaluate new tools or model instances)
+- **Workflow Automation** (repeatable operational tasks)
+- **Knowledge / Search** (research, summaries, competitive intel)
+- **Coding / Dev Productivity** (PRs, reviews, refactors, tests)
+- **Quality & QA** (test generation, regression checks, doc QA)
+- **Customer Support / Ops** (triage, response drafts, playbooks)
+- **Content & Documentation** (technical docs, product content)
+- **Analytics & Reporting** (insights, dashboards, KPI summaries)
+- **Governance & Risk** (policy checks, compliance workflows)
+- **Training & Enablement** (coaching, prompt libraries, playbooks)
+
 ## Modules (from role SOW)
 - **Tooling & PoCs**: idea → PoC → learning → decision pipeline
 - **Security & Governance**: risks, access boundaries, secure alternatives
