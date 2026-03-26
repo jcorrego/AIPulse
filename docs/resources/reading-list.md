@@ -1,17 +1,17 @@
 - AI doesn’t reduce work — it intensifies it (HBR, Feb 2026): https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it
-  - Nota: insights clave para adopción de IA en equipos (nuevo rol).
-  - Resumen breve: el valor de IA existe, pero el “trabajo” puede intensificarse si no se gestiona adopción, expectativas y carga adicional.
-  - Análisis (para tu rol): la adopción sin gobernanza suele crear más tareas (revisión, coordinación, QA, redefinición de procesos), por lo que necesitas métricas y límites claros.
-  - Accionables:
-    1) **Definir casos de uso priorizados** (3–5) con dueño, objetivo y criterio de éxito.
-    2) **Medir carga adicional**: tiempo de revisión/QA, retrabajo, y tareas nuevas creadas por IA.
-    3) **Políticas de uso**: qué se puede automatizar vs. qué requiere aprobación humana.
-    4) **Capacitación mínima** por equipo: prompts base + checklist de calidad.
-    5) **Gobernanza**: reporte mensual de adopción, riesgos y ROI.
-  - Dashboard sugerido (tablero de control):
-    - Adopción (% usuarios activos / semana)
-    - Ahorro estimado (horas recuperadas) vs. **costo de revisión**
-    - Tasa de retrabajo (% tareas IA corregidas)
-    - Casos de uso activos (y su owner)
-    - Riesgos/compliance abiertos
-    - Impacto en KPIs del área (ej. velocidad, calidad, satisfacción)
+  - Note: key insights for AI adoption in teams (new role).
+  - Brief summary: AI can create value, but work often intensifies if adoption, expectations, and additional load aren’t managed.
+  - Analysis (for your role): adoption without governance creates extra tasks (review, coordination, QA, process redefinition). You need clear metrics and boundaries.
+  - Actionables:
+    1) **Define prioritized use cases** (3–5) with owner, objective, and success criteria.
+    2) **Measure added load**: review/QA time, rework, and new tasks created by AI.
+    3) **Usage policies**: what can be automated vs. what requires human approval.
+    4) **Minimum training** per team: baseline prompts + quality checklist.
+    5) **Governance**: monthly report on adoption, risks, and ROI.
+  - Suggested dashboard:
+    - Adoption (% active users / week)
+    - Estimated savings (hours recovered) vs. **review cost**
+    - Rework rate (% AI tasks corrected)
+    - Active use cases (and owner)
+    - Open risks/compliance
+    - Impact on area KPIs (e.g., speed, quality, satisfaction)

@@ -1,7 +1,7 @@
 # QA Checklist (Draft)
 
-- ¿La respuesta es correcta y verificable?
-- ¿Cumple políticas de datos/sensibilidad?
-- ¿El formato es el esperado?
-- ¿Se documentaron fuentes o supuestos?
-- ¿Requiere aprobación humana?
+- Is the response correct and verifiable?
+- Does it comply with data/sensitivity policies?
+- Is the format as expected?
+- Are sources or assumptions documented?
+- Does it require human approval?

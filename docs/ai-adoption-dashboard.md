@@ -1,56 +1,56 @@
 # AI Adoption Dashboard — Template
 
-## 1) Objetivo del tablero
-Monitorear adopción, impacto real y riesgos de IA en equipos para evitar que el trabajo se intensifique sin control.
+## 1) Dashboard goal
+Monitor adoption, real impact, and AI risks in teams to prevent uncontrolled work intensification.
 
 ---
 
-## 2) KPIs Core (mensual)
-- **Adopción**: % usuarios activos / semana
-- **Volumen**: # tareas con IA / semana
-- **Ahorro estimado**: horas recuperadas
-- **Costo de revisión**: horas de QA/validación
-- **Tasa de retrabajo**: % outputs corregidos o re‑hechos
-- **Impacto en KPIs del área**: velocidad, calidad, satisfacción
+## 2) Core KPIs (monthly)
+- **Adoption**: % active users / week
+- **Volume**: # AI-assisted tasks / week
+- **Estimated savings**: hours recovered
+- **Review cost**: QA/validation hours
+- **Rework rate**: % outputs corrected or redone
+- **Impact on team KPIs**: speed, quality, satisfaction
 
 ---
 
-## 3) Casos de uso priorizados (3–5)
-| Caso de uso | Owner | Objetivo | Métrica de éxito | Estado |
+## 3) Prioritized use cases (3–5)
+| Use case | Owner | Objective | Success metric | Status |
 |---|---|---|---|---|
-| Ej. Resumen de reuniones | Ops | Reducir 30% tiempo de seguimiento | Tiempo promedio | Activo |
+| e.g., Meeting summaries | Ops | Reduce follow-up time by 30% | Avg. follow-up time | Active |
 
 ---
 
-## 4) Riesgos y gobernanza
-- **Riesgos abiertos** (compliance, datos sensibles, reputación)
-- **Mitigaciones** (políticas de uso, revisiones, filtros)
-- **Escalamiento** (quién aprueba y en qué casos)
+## 4) Risks & governance
+- **Open risks** (compliance, sensitive data, reputation)
+- **Mitigations** (usage policies, reviews, filters)
+- **Escalation** (who approves and when)
 
 ---
 
-## 5) Calidad & guardrails
-- **Checklist de calidad** (5 puntos por output)
-- **Uso permitido vs. prohibido**
-- **Aprobación humana requerida** (Sí/No + criterios)
+## 5) Quality & guardrails
+- **Quality checklist** (5 points per output)
+- **Allowed vs. restricted use**
+- **Human approval required** (Yes/No + criteria)
 
 ---
 
-## 6) Insights cualitativos
-- Fricciones reportadas
-- Casos de éxito
-- Lecciones del mes
+## 6) Qualitative insights
+- Reported frictions
+- Success cases
+- Monthly lessons
 
 ---
 
-## 7) Próximas acciones
-- Próximo experimento / piloto
-- Ajustes de policy
-- Capacitación pendiente
+## 7) Next actions
+- Next experiment / pilot
+- Policy adjustments
+- Pending training
 
 ---
 
-## 8) Fuente de datos
-- Logs de uso
-- Encuestas internas
-- Herramientas de gestión (Jira/Notion/Sheets)
+## 8) Data sources
+- Usage logs
+- Internal surveys
+- Management tools (Jira/Notion/Sheets)
