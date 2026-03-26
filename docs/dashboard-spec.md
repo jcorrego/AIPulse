@@ -9,6 +9,7 @@
 
 ## Use-Case Registry
 Each use case includes owner, objective, success metric, and status.
+Template: `docs/use-case-template.md`
 
 ### Use-Case Types (proposed)
 - **Tool Pilot / Instance Test** (evaluate new tools or model instances)
